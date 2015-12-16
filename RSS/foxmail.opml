@@ -10,6 +10,7 @@
 			<outline htmlUrl="http://blog.csdn.net/luqin1988" xmlUrl="http://blog.csdn.net/luqin1988/rss/list" version="RSS" type="rss" title="云淡风清" text="云淡风清"/>
 			<outline htmlUrl="http://blog.csdn.net/eclipser1987" xmlUrl="http://blog.csdn.net/eclipser1987/rss/list" version="RSS" type="rss" title="噬日者" text="噬日者"/>
 			<outline htmlUrl="http://blog.csdn.net/redguardtoo" xmlUrl="http://blog.csdn.net/redguardtoo/rss/list" version="RSS" type="rss" title="redguardtoo的专栏" text="redguardtoo的专栏"/>
+			<outline htmlUrl="http://blog.csdn.net/u014388509" xmlUrl="http://blog.csdn.net/oopsoom/rss/list" version="RSS" type="rss" title="OopsOutOfMemory盛利的博客" text="OopsOutOfMemory盛利的博客"/>
 		</outline>
 		<outline title="个人博客" text="个人博客">
 			<outline htmlUrl="http://qifuguang.me//" xmlUrl="http://qifuguang.me/atom.xml" version="RSS" type="rss" title="winwill2012博客" text="winwill2012博客"/>
@@ -19,7 +20,7 @@
 		</outline>
 		<outline title="Hacker Teams" text="Hacker Teams">
 			<outline htmlUrl="http://www.80vul.com/?q=rss.xml/" xmlUrl="http://www.80vul.com/?q=rss.xml/" version="RSS" type="rss" title="80vul Quality Assurance Group - 一群靠谱的年轻人!" text="80vul Quality Assurance Group - 一群靠谱的年轻人!"/>
-			<outline htmlUrl="http://blog.andlabs.org/feeds/posts/default" xmlUrl="http://blog.andlabs.org/feeds/posts/default" version="RSS" type="rss" title="AnD Labs" text="AnD Labs"/>
+			<outline htmlUrl="http://blog.andlabs.org/" xmlUrl="http://blog.andlabs.org/feeds/posts/default" version="RSS" type="rss" title="AnD Labs" text="AnD Labs"/>
 			<outline htmlUrl="http://www.backtrack-linux.org" xmlUrl="http://www.backtrack-linux.org/feed" version="RSS" type="rss" title="BackTrack Linux" text="BackTrack Linux"/>
 			<outline htmlUrl="http://www.blackhat.com/" xmlUrl="https://www.blackhat.com/BlackHatRSS.xml" version="RSS" type="rss" title="Black Hat A" text="Black Hat A"/>
 			<outline htmlUrl="http://www.coresec.org/feed/" xmlUrl="http://www.coresec.org/feed/" version="RSS" type="rss" title="Coresec.org - Information Security Blog" text="Coresec.org - Information Security Blog"/>
