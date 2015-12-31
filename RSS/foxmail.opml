@@ -11,6 +11,7 @@
 			<outline htmlUrl="http://blog.csdn.net/eclipser1987" xmlUrl="http://blog.csdn.net/eclipser1987/rss/list" version="RSS" type="rss" title="噬日者" text="噬日者"/>
 			<outline htmlUrl="http://blog.csdn.net/redguardtoo" xmlUrl="http://blog.csdn.net/redguardtoo/rss/list" version="RSS" type="rss" title="redguardtoo的专栏" text="redguardtoo的专栏"/>
 			<outline htmlUrl="http://blog.csdn.net/u014388509" xmlUrl="http://blog.csdn.net/oopsoom/rss/list" version="RSS" type="rss" title="OopsOutOfMemory盛利的博客" text="OopsOutOfMemory盛利的博客"/>
+			<outline htmlUrl="http://blog.csdn.net/hguisu" xmlUrl="http://blog.csdn.net/hguisu/rss/list" version="RSS" type="rss" title="guisu，程序人生。  逆水行舟，不进则退。" text="guisu，程序人生。  逆水行舟，不进则退。"/>
 		</outline>
 		<outline title="个人博客" text="个人博客">
 			<outline htmlUrl="http://qifuguang.me//" xmlUrl="http://qifuguang.me/atom.xml" version="RSS" type="rss" title="winwill2012博客" text="winwill2012博客"/>
