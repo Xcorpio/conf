@@ -1,0 +1,237 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<QTTabBar>
+  <SerializedOptions>All</SerializedOptions>
+  <Config>
+    <Config>2A20040004F010220050E418204A0A0013EC3B22211E00030990FFFFFFFFF1FF000230000761049000CAB31CCAB31C0A8B40290CCBB24C00000000000000000400000000000000000000000000010000</Config>
+    <KeyboardShortcuts>000000000000000025001600270016000900120009001300000000000000000057001200570013000000000000000000000000005A0013004E001200000000004C001200000000004F001200470013004F001400BC001400BE0014004700140048001400410014004D001400430013005800130043001400580014004E00130048001300000000006B0013006D0013005100140046001200450014005200140056001400270013000000000000000000000000000000000000000000000000000000000000000000000000004600130054001300000000000000000000000000450013004400130000000000000000000000000000000000000000000000000000000000550013004A0013000000000000000000000000000000000000000000000000000000000000000000000000000000000053001400000000004C0013005000130046001400000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000071001100570014000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000003100130032001300330013003400130035001300360013003700130038001300000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</KeyboardShortcuts>
+    <LanguageFile></LanguageFile>
+    <RecentTabMax>24</RecentTabMax>
+    <RecentFileMax>24</RecentFileMax>
+    <RecentFileMax_Exe>16</RecentFileMax_Exe>
+    <ToolbarBGImage></ToolbarBGImage>
+    <ResolverLongTimeout>10000</ResolverLongTimeout>
+    <TabFont>微软雅黑</TabFont>
+    <TabFontSize>9</TabFontSize>
+    <TabFontStyle>0</TabFontStyle>
+    <TabFontStyleActive>0</TabFontStyleActive>
+    <TabImage></TabImage>
+    <TabCloseButtonImage></TabCloseButtonImage>
+    <TabLockImage></TabLockImage>
+    <TabImageSizingMargin>0A000000</TabImageSizingMargin>
+    <TabTextOffsets>0</TabTextOffsets>
+    <TabCloseButtonOffsets>0</TabCloseButtonOffsets>
+    <TabLockImageOffsets>0</TabLockImageOffsets>
+    <TabIconOffsets>0</TabIconOffsets>
+    <TabPadding>00000000000000000000000000000000</TabPadding>
+    <TabWidth>80</TabWidth>
+    <TabHeight>24</TabHeight>
+    <TabWidthMax>150</TabWidthMax>
+    <TabWidthMin>70</TabWidthMin>
+    <DefaultTabLocation>14001F50E04FD020EA3A6910A2D808002B30309D19002F433A5C000000000000000000000000000000000000004C00310000000000000000001000557365727300380008000400EFBE00000000000000002A0000000000000000000000000000000000000000000000000055007300650072007300000014004A00310000000000000000001000446F6E670000360008000400EFBE00000000000000002A0000000000000000000000000000000000000000000000000044006F006E0067000000140052003100000000000000000010004465736B746F70003C0008000400EFBE00000000000000002A000000000000000000000000000000000000000000000000004400650073006B0074006F007000000016000000</DefaultTabLocation>
+    <TabAnimationFactor>2</TabAnimationFactor>
+    <ColorActive>-9699220</ColorActive>
+    <ColorInactive>-8355712</ColorInactive>
+    <ColorHighlightClassic>-13395457</ColorHighlightClassic>
+    <ColorShadowActive>-4144960</ColorShadowActive>
+    <ColorShadowInacitve>-1</ColorShadowInacitve>
+    <ColorToolbarBackground>-986896</ColorToolbarBackground>
+    <ColorVerticalBarBackground>-920069</ColorVerticalBarBackground>
+    <ColorHorizontalBarBackground>-920069</ColorHorizontalBarBackground>
+    <ColorNavigationPaneBackground>-1</ColorNavigationPaneBackground>
+    <ColorNavigationPaneText>-16777216</ColorNavigationPaneText>
+    <PreviewMaxWidth>512</PreviewMaxWidth>
+    <PreviewMaxHeight>256</PreviewMaxHeight>
+    <PreviewMovieMaxWidth>512</PreviewMovieMaxWidth>
+    <PreviewMovieMaxHeight>256</PreviewMovieMaxHeight>
+    <PreviewTextMaxWidth>256</PreviewTextMaxWidth>
+    <PreviewTextMaxHeight>256</PreviewTextMaxHeight>
+    <PreviewTextReadSizeKB>1</PreviewTextReadSizeKB>
+    <PreviewMaxCacheSize>256</PreviewMaxCacheSize>
+    <PreviewFont>Segoe UI</PreviewFont>
+    <PreviewFontSize>9</PreviewFontSize>
+    <PreviewFontStyle>0</PreviewFontStyle>
+    <PreviewSoundVolume>0.25</PreviewSoundVolume>
+    <PreviewDelayOnFolderView>400</PreviewDelayOnFolderView>
+    <PreviewDelayOnMenu>0</PreviewDelayOnMenu>
+    <PreviewFullScreenMonitor></PreviewFullScreenMonitor>
+    <PreviewTextForeColor>0</PreviewTextForeColor>
+    <PreviewTextBackColor>16777215</PreviewTextBackColor>
+    <PreviewSlideShowInterval>10000</PreviewSlideShowInterval>
+    <PreviewOpacity>255</PreviewOpacity>
+    <PreviewImageExtensions>.bmp;.dib;.rle;.jpg;.jpeg;.jpe;.jfif;.gif;.emf;.wmf;.tif;.tiff;.png;.wdp;</PreviewImageExtensions>
+    <PreviewMovieExtensions>.3gp;.3g2;.asf;.asx;.au;.avi;.dvr-ms;.fla;.flac;.flv;.m1v;.m3u;.m3u8;.m4a;.m4v;.mid;.midi;.mka;.mkv;.mov;.mp2;.mp3;.mp4;.mpeg;.mpg;.oga;.ogg;.ogv;.ogx;.pls;.rm;.snd;.spx;.vob;.wav;.webm;.wma;.wmv;.wpl;</PreviewMovieExtensions>
+    <PreviewTextExtensions>.aspx;.bat;.c;.cpp;.cs;.css;.h;.htm;.html;.inf;.ini;.js;.log;.reg;.txt;.vb;.vbs;.xaml;.xml;</PreviewTextExtensions>
+    <MenuOpacity>255</MenuOpacity>
+    <SubFolderMenuOpacity>255</SubFolderMenuOpacity>
+    <MaxMenuChar>40</MaxMenuChar>
+    <MenuFont></MenuFont>
+    <MenuFontSize></MenuFontSize>
+    <MenuFontStyle>0</MenuFontStyle>
+    <WavePath_Copy></WavePath_Copy>
+    <WavePath_Cut></WavePath_Cut>
+    <WavePath_Paste></WavePath_Paste>
+    <WavePath_Delete></WavePath_Delete>
+    <DesktopToolImage></DesktopToolImage>
+    <DesktopToolImageSizingMargin>00000000</DesktopToolImageSizingMargin>
+    <HoverTabChangeDelay>700</HoverTabChangeDelay>
+    <HoverMenuDelay>1200</HoverMenuDelay>
+    <AutoHideToolbarDelay>2000</AutoHideToolbarDelay>
+    <AutoShowToolbarDelay>500</AutoShowToolbarDelay>
+    <ColumnWidthForList>300</ColumnWidthForList>
+    <ViewBorderColor>16777215</ViewBorderColor>
+    <ViewFocusedBorderColor>16777215</ViewFocusedBorderColor>
+    <TabSwitchItem>10</TabSwitchItem>
+    <ExportDirectory></ExportDirectory>
+    <ExportInterval>7</ExportInterval>
+    <FileRenamerDepth>0</FileRenamerDepth>
+    <FileRenamerNumStart>1</FileRenamerNumStart>
+    <FileRenamerNumIncrement>1</FileRenamerNumIncrement>
+    <CompatibleViewBackgroundColor>-1</CompatibleViewBackgroundColor>
+    <CompatibleViewFocusedBackgroundColor>-197380</CompatibleViewFocusedBackgroundColor>
+    <CompatibleViewSelctedColumnColor>-1</CompatibleViewSelctedColumnColor>
+    <CompatibleViewSelctedColumnLuminosity>95</CompatibleViewSelctedColumnLuminosity>
+    <CompatibleViewForeColor>-9605779</CompatibleViewForeColor>
+    <CompatibleViewFocusedForeColor>-16777216</CompatibleViewFocusedForeColor>
+    <CompatibleViewWatermarkGeneral></CompatibleViewWatermarkGeneral>
+    <CompatibleViewWatermarkDocument></CompatibleViewWatermarkDocument>
+    <CompatibleViewWatermarkPicture></CompatibleViewWatermarkPicture>
+    <CompatibleViewWatermarkMusic></CompatibleViewWatermarkMusic>
+    <CompatibleViewWatermarkMovie></CompatibleViewWatermarkMovie>
+    <CommandBarIconSize1st>24</CommandBarIconSize1st>
+    <CommandBarIconSize2nd>24</CommandBarIconSize2nd>
+    <CommandBarIconSizeVrt>32</CommandBarIconSizeVrt>
+    <CommandBarImagePath></CommandBarImagePath>
+    <FilterBoxWidth2nd>0.8469992</FilterBoxWidth2nd>
+    <FilterBoxWidth3rd>0.8472222</FilterBoxWidth3rd>
+    <ScriptingOptions>00000000000000000000000000000000</ScriptingOptions>
+    <IncrementalSearchTimeout>1000</IncrementalSearchTimeout>
+  </Config>
+  <FolderViewColors />
+  <Groups>
+    <Separator />
+    <Group Name="D:MyDocs">
+      <Item Type="IDL">14001F50E04FD020EA3A6910A2D808002B30309D19002F443A5C000000000000000000000000000000000000005E003100000000006E47281611004D79446F63756D656E747300440008000400EFBE6D47A6196E4728162A0000002A0000000000060000000000000000000000000000004D00790044006F00630075006D0065006E007400730000001A000000</Item>
+    </Group>
+    <Group Name="D:Workspaces">
+      <Item Type="IDL">14001F50E04FD020EA3A6910A2D808002B30309D19002F443A5C0000000000000000000000000000000000000058003100000000006D478A1A1000576F726B737061636500400008000400EFBE6D47701A6D478A1A2A000000240F000000000200000000000000000000000000000057006F0072006B0073007000610063006500000018000000</Item>
+    </Group>
+    <Separator />
+    <Group Name="D:Baidu">
+      <Item Type="IDL">14001F50E04FD020EA3A6910A2D808002B30309D19002F443A5C000000000000000000000000000000000000004C003100000000007347C13A1000426169647500380008000400EFBE72471C0F7347C13A2A0000001EC1000000000300000000000000000000000000000042006100690064007500000014000000</Item>
+    </Group>
+    <Group Name="C:Home">
+      <Item Type="IDL">14001F44471A0359723FA74489C55595FE6B30EE0000</Item>
+    </Group>
+    <Separator />
+    <Group Name="GitRepo">
+      <Item Type="IDL">14001F50E04FD020EA3A6910A2D808002B30309D19002F443A5C000000000000000000000000000000000000005E003100000000002D48591011004D79446F63756D656E747300440008000400EFBE6D47A6192D4859102A0000002A0000000000060000000000000000000000000000004D00790044006F00630075006D0065006E007400730000001A0052003100000000006E47833810004769745265706F003C0008000400EFBE6E4724166E4783382A00000073A500000000050000000000000000000000000000004700690074005200650070006F00000016000000</Item>
+    </Group>
+  </Groups>
+  <ApplicationLaunchers />
+  <Plugins>
+    <Enabled>0001000000FFFFFFFF01000000000000001101000000000000000B</Enabled>
+    <KeyboardShortcuts>0001000000FFFFFFFF01000000000000000C020000004B51545461624261722C2056657273696F6E3D312E302E302E302C2043756C747572653D6E65757472616C2C205075626C69634B6579546F6B656E3D373861306364653639623437636132350701000000000100000000000000041551545461624261724C69622E506C7567696E4B6579020000000B</KeyboardShortcuts>
+  </Plugins>
+  <CommandBar>
+    <CommandBar1st IconSize="24">
+      <CommandButton Type="BuiltIn" SubType="Normal" PersistentID="29791561">
+        <CommandID>23</CommandID>
+        <DisplayText>Filter Box</DisplayText>
+        <Options>0100000000000000000000010000</Options>
+      </CommandButton>
+      <CommandButton Type="BuiltIn" SubType="Normal" PersistentID="29562311">
+        <CommandID>3</CommandID>
+        <DisplayText>Groups</DisplayText>
+        <Options>0100000000000000000000010000</Options>
+      </CommandButton>
+      <CommandButton Type="BuiltIn" SubType="Normal" PersistentID="29682418">
+        <CommandID>17</CommandID>
+        <DisplayText>Reload</DisplayText>
+        <Options>0100000000000000000000010000</Options>
+      </CommandButton>
+      <CommandButton Type="BuiltIn" SubType="Normal" PersistentID="29736990">
+        <CommandID>0</CommandID>
+        <Options>0100000000000000000000010000</Options>
+      </CommandButton>
+    </CommandBar1st>
+    <CommandBar2nd IconSize="24">
+      <CommandButton Type="Group" SubType="Normal" PersistentID="505268661">
+        <GroupAction>Default</GroupAction>
+        <LabelVisibility>true</LabelVisibility>
+        <Groups>
+          <Group>我的文档</Group>
+        </Groups>
+        <Options>0100000000000000000000010000</Options>
+      </CommandButton>
+      <CommandButton Type="Group" SubType="Normal" PersistentID="505323232">
+        <GroupAction>Default</GroupAction>
+        <LabelVisibility>true</LabelVisibility>
+        <Groups>
+          <Group>计算机大全</Group>
+        </Groups>
+        <Options>0100000000000000000000010000</Options>
+      </CommandButton>
+      <CommandButton Type="Group" SubType="Normal" PersistentID="505377804">
+        <GroupAction>Default</GroupAction>
+        <LabelVisibility>true</LabelVisibility>
+        <Groups>
+          <Group>破解+加壳</Group>
+        </Groups>
+        <Options>0100000000000000000000010000</Options>
+      </CommandButton>
+    </CommandBar2nd>
+    <CommandBarVertical IconSize="32">
+      <CommandButton Type="File" SubType="Normal" PersistentID="505432375">
+        <FileAction>Default</FileAction>
+        <LabelVisibility>true</LabelVisibility>
+        <DisplayText>库</DisplayText>
+        <IDL>14001F4225481E03947BC34DB131E946B44C8DD50000</IDL>
+        <Options>0100000000000000000000010000</Options>
+      </CommandButton>
+      <CommandButton Type="File" SubType="Normal" PersistentID="505486947">
+        <FileAction>Default</FileAction>
+        <LabelVisibility>true</LabelVisibility>
+        <DisplayText>计算机</DisplayText>
+        <IDL>14001F50E04FD020EA3A6910A2D808002B30309D0000</IDL>
+        <Options>0100000000000000000000010000</Options>
+      </CommandButton>
+    </CommandBarVertical>
+    <Pool />
+  </CommandBar>
+  <Events>
+    <NavigationComplete>0</NavigationComplete>
+    <NavigationFailed>0</NavigationFailed>
+    <WindowOpened>0</WindowOpened>
+    <WindowClosing>0</WindowClosing>
+    <TabChanged>0</TabChanged>
+    <Interactive>
+      <TabClick>1500000000000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF</TabClick>
+      <TabDoubleClick>0000000002000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF</TabDoubleClick>
+      <TabMiddleClick>04000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF</TabMiddleClick>
+      <TabRightClick>0300000003000000030000000300000003000000030000000300000003000000</TabRightClick>
+      <TabBarDoubleClick>00000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF</TabBarDoubleClick>
+      <TabBarMiddleClick>01000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF</TabBarMiddleClick>
+      <TabBarRightClick>0400000004000000040000000400000004000000040000000400000004000000</TabBarRightClick>
+      <NavPaneClick>020000000C00000000000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF</NavPaneClick>
+      <NavPaneMiddleClick>000000000E00000000000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF</NavPaneMiddleClick>
+      <NavPaneEnter>020000000C00000000000000FFFFFFFF0E000000FFFFFFFFFFFFFFFFFFFFFFFF</NavPaneEnter>
+      <BreadcrumbsClick>020000000C00000000000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF</BreadcrumbsClick>
+      <BreadcrumbsMiddleClick>000000000E00000000000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF</BreadcrumbsMiddleClick>
+      <CommandButtonClick>000000000C00000002000000FFFFFFFF0E000000FFFFFFFFFFFFFFFFFFFFFFFF</CommandButtonClick>
+      <CommandButtonMiddleClick>0C0000000C00000000000000FFFFFFFF0E000000FFFFFFFFFFFFFFFFFFFFFFFF</CommandButtonMiddleClick>
+      <WindowCloseButton>010000000300000001000000FFFFFFFF03000000FFFFFFFFFFFFFFFFFFFFFFFF</WindowCloseButton>
+      <JumpListCommand>010000000300000001000000FFFFFFFF03000000FFFFFFFFFFFFFFFFFFFFFFFF</JumpListCommand>
+      <GroupMenuClick>000000000C00000001000000FFFFFFFF02000000FFFFFFFFFFFFFFFFFFFFFFFF</GroupMenuClick>
+      <GroupMenuMiddleClick>02000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF</GroupMenuMiddleClick>
+      <ViewIconDoubleClick>130000000000000001000000FFFFFFFF10000000FFFFFFFFFFFFFFFFFFFFFFFF</ViewIconDoubleClick>
+      <ViewIconMiddleClick>00000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF</ViewIconMiddleClick>
+      <ViewBackgroundDoubleClick>00000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF</ViewBackgroundDoubleClick>
+      <ViewBackgroundMiddleClick>09000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF</ViewBackgroundMiddleClick>
+      <SubFolderMenuClick>020000000C000000010000001000000000000000000000000000000000000000</SubFolderMenuClick>
+      <SubFolderMenuMiddleClick>000000000C000000010000001000000000000000000000000000000000000000</SubFolderMenuMiddleClick>
+      <ViewEnterKey>1300000000000000010000000C00000010000000FFFFFFFFFFFFFFFFFFFFFFFF</ViewEnterKey>
+      <PlusButtonClick>00000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF</PlusButtonClick>
+      <IncludeSelectionMiddleClick>0000000000000000</IncludeSelectionMiddleClick>
+    </Interactive>
+  </Events>
+</QTTabBar>
