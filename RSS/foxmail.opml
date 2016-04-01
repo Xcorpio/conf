@@ -25,7 +25,7 @@
 			<outline htmlUrl="http://www.backtrack-linux.org" xmlUrl="http://www.backtrack-linux.org/feed" version="RSS" type="rss" title="BackTrack Linux" text="BackTrack Linux"/>
 			<outline htmlUrl="http://www.blackhat.com/" xmlUrl="https://www.blackhat.com/BlackHatRSS.xml" version="RSS" type="rss" title="Black Hat A" text="Black Hat A"/>
 			<outline htmlUrl="http://www.coresec.org/feed/" xmlUrl="http://www.coresec.org/feed/" version="RSS" type="rss" title="Coresec.org - Information Security Blog" text="Coresec.org - Information Security Blog"/>
-			<outline htmlUrl="http://www.defcon.org/defconrss.xml" xmlUrl="http://www.defcon.org/defconrss.xml" version="RSS" type="rss" title="DEFCON" text="DEFCON"/>
+			<outline htmlUrl="https://www.defcon.org/" xmlUrl="http://www.defcon.org/defconrss.xml" version="RSS" type="rss" title="DEFCON" text="DEFCON"/>
 			<outline htmlUrl="https://www.exploit-db.com" xmlUrl="http://www.exploit-db.com/rss.php" version="RSS" type="rss" title="Exploit-DB" text="Exploit-DB"/>
 			<outline htmlUrl="https://www.exploit-db.com" xmlUrl="http://www.exploit-db.com/feed" version="RSS" type="rss" title="Exploits Blog" text="Exploits Blog"/>
 			<outline htmlUrl="http://googleonlinesecurity.blogspot.com/atom.xml" xmlUrl="http://googleonlinesecurity.blogspot.com/atom.xml" version="RSS" type="rss" title="Google Security" text="Google Security"/>
@@ -38,7 +38,7 @@
 			<outline htmlUrl="http://thexploit.com" xmlUrl="http://thexploit.com/feed/rss/" version="RSS" type="rss" title="TheXploit | Security Blog" text="TheXploit | Security Blog"/>
 			<outline htmlUrl="http://www.ush.it/feed/" xmlUrl="http://www.ush.it/feed/" version="RSS" type="rss" title="ush.it" text="ush.it"/>
 			<outline htmlUrl="https://packetstormsecurity.com/" xmlUrl="http://rss.packetstormsecurity.org/files/tags/paper/" version="RSS" type="rss" title="Whitepaper Files ≈ Packet Storm" text="Whitepaper Files ≈ Packet Storm"/>
-			<outline htmlUrl="https://www.notsosecure.com" xmlUrl="http://www.notsosecure.com/folder2/feed" version="RSS" type="rss" title="www.notsosecure.com" text="www.notsosecure.com"/>
+			<outline htmlUrl="" xmlUrl="http://www.notsosecure.com/folder2/feed" version="RSS" type="rss" title="www.notsosecure.com" text="www.notsosecure.com"/>
 			<outline htmlUrl="http://www.freebuf.com" xmlUrl="http://www.freebuf.com/feed" version="RSS" type="rss" title="FreeBuf.COM" text="FreeBuf.COM"/>
 			<outline htmlUrl="http://threatpost.com" xmlUrl="http://threatpost.com/feed/" version="RSS" type="rss" title="Threatpost - English - Global - threatpost.com" text="Threatpost - English - Global - threatpost.com"/>
 			<outline htmlUrl="http://feeds.feedburner.com/blogspot/armorize_cht?format=xml" xmlUrl="http://feeds.feedburner.com/blogspot/armorize_cht?format=xml" version="RSS" type="rss" title="阿碼外傳" text="阿碼外傳"/>
