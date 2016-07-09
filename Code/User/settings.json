@@ -1,0 +1,20 @@
+// 将设置放入此文件中以覆盖默认设置
+{
+    //---------- 编辑器配置 -------------
+    // 控制字体大小
+    "editor.fontSize": 13,
+    // 控制编辑器是否应呈现空白字符
+    "editor.renderWhitespace": true,
+    "editor.rulers": [
+        120
+    ],
+    //-------- GIT 配置 --------
+    // 可执行 GIT 的路径
+    "git.path": "D:/Program Files/Git/bin/git.exe",
+
+    // 外部终端配置
+    // 自定义要在 Windows 上运行的终端。
+    "terminal.external.windowsExec": "gitbash",
+     // The path of the shell that the terminal uses on Windows.
+    "terminal.integrated.shell.windows": "D:\\Program Files\\Git\\bin\\sh.exe"
+}
